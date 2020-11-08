@@ -8,6 +8,7 @@ How to use:
 2. Copy into your pynq folder
 -jupyter notebook
 -overlays
+-dataset
 
 3. Open your jupyter on Pynq Z2 notebook from browser
 http://pynq:9090/email/
